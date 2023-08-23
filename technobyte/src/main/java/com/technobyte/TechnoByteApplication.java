@@ -14,6 +14,6 @@ public class TechnoByteApplication {
   public static void main(String[] args) {
     log.info("server about to start");
     SpringApplication.run(TechnoByteApplication.class, args);
-    log.info("server started"); 
+    log.info("server started");
   }
 }
